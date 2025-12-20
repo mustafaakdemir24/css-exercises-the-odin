@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+  background: rgb(245, 153, 203);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.odd.size {
+  font-size: 24px;
+}
+
+#one {
+  color: hsl(194, 98%, 23%);
+  font-size: 36px;
+}
+
+#two {
+  background: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
